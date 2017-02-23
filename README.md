@@ -1,2 +1,2 @@
-# Hello-world
+# S-curve
 First repo
